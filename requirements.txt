@@ -1,7 +1,12 @@
+setuptools
+wheel
+
 flask==3.0.0
 flask-cors==4.0.0
-langchain==0.1.0
+
 openai==1.6.1
+tiktoken==0.5.2
+
+langchain==0.1.0
 chromadb==0.4.22
 pypdf==3.17.4
-tiktoken==0.5.2
